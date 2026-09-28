@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Manya Kalra
 # 💫 About Me:
 🔭 I’m currently working on- Improving my protein database and doing fun little projects on the side<br>👯 I’m looking to collaborate on- Any fun little projects which can be biology related or maybe not i am open to new ideas.<br>🤝 I’m looking for help with- new code learning journey and how to navigate both biology and tech<br>🌱 I’m currently learning- i am currently studying btech in biotechnolgy and am learning basic database structures,AI Learning and Software enginnering on my own<br>💬 Ask me about- Anything related to biology though i know tech as well<br>⚡ Fun fact- I believe AI wont take my job (JK it will)
 
