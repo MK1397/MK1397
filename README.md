@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on- Improving my protein database and doing fun little projects on the side<br>👯 I’m looking to collaborate on- Any fun little projects which can be biology related or maybe not i am open to new ideas.<br>🤝 I’m looking for help with- new code learning journey and how to navigate both biology and tech<br>🌱 I’m currently learning- i am currently studying btech in biotechnolgy and am learning basic database structures,AI Learning and Software enginnering on my own<br>💬 Ask me about- Anything related to biology though i know tech as well<br>⚡ Fun fact- I believe AI wont take my job (JK it will)
 
 
@@ -18,7 +17,3 @@
 [![](https://komarev.com/ghpvc/?username=MK1397&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**MK1397/MK1397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
